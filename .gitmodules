@@ -1,0 +1,9 @@
+[submodule "lvector"]
+	path = lvector
+	url = git@github.com:LeandreBl/lvector.git
+[submodule "arguments-handler"]
+	path = arguments-handler
+	url = git@github.com:LeandreBl/arguments-handler
+[submodule "c-string"]
+	path = c-string
+	url = git@github.com:LeandreBl/c-string
